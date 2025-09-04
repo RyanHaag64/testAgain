@@ -1,0 +1,4 @@
+ECEN 404 Week 2 9/4/2025
+
+This week in lab, Siena and I began working on intigratin the database with the PI, making sure that the pi's acceloromter and gyroscope values could be see in the Firebase Database
+Once the intigration is complete, I plan on looking into switching the ML model to LSTM model.
